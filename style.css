@@ -7,7 +7,7 @@
 html, body { /* Estilos para el html y el body */
     margin: 0; /* Elimina el margen por defecto */
     padding: 0; /* Elimina el padding por defecto */
-    background-color: rgb(204, 232, 236); /* Fondo claro */
+    background-color: #cce8ec; /* Fondo claro */
 }
 
 main { /* Estilo para el elemento main */
@@ -37,7 +37,7 @@ main { /* Estilo para el elemento main */
 h1 { /* Estilo para el título h1 */
     font-size: 4em; /* Tamaño de fuente grande (4em) */
     font-weight: bold; /* Fuente en negrita */
-    color: rgb(42, 129, 169); /* Color naranja */
+    color: #2a81a9; /* Color naranja */
 }
 
 h2 { /* Estilo para subtítulos h2 */
@@ -91,7 +91,7 @@ p { /* Estilo para párrafos p */
 button { /* Estilo para los botones */
     border-radius: 20px; /* Bordes redondeados */
     padding: 10px 20px; /* Padding de 10px arriba y abajo, 20px a los lados */
-    background-color: rgb(42, 129, 169); /* Color de fondo gris claro */
+    background-color: #2a81a9; /* Color de fondo gris claro */
     font-size: 14px; /* Tamaño de fuente de 14px */
     font-weight: bold; /* Texto en negrita */
     color: #9ed7ff; /* Texto naranja */
@@ -100,7 +100,7 @@ button { /* Estilo para los botones */
 }
 
 button:hover { /* Estilo hover para los botones */
-    background-color:#9ed0ff;; /* Texto naranja */
+    background-color:hsl(209, 100%, 81%);; /* Texto naranja */
     ; /* Fondo cambia a naranja */
     color: black; /* Texto cambia a negro */
     font-weight: bold; /* Mantiene el texto en negrita */
